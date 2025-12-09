@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Employee\Employee\bin\Debug\net10.0\Employee.exe
+C:\Users\admin\source\repos\Employee\Employee\bin\Debug\net10.0\Employee.deps.json
+C:\Users\admin\source\repos\Employee\Employee\bin\Debug\net10.0\Employee.runtimeconfig.json
+C:\Users\admin\source\repos\Employee\Employee\bin\Debug\net10.0\Employee.dll
+C:\Users\admin\source\repos\Employee\Employee\bin\Debug\net10.0\Employee.pdb
+C:\Users\admin\source\repos\Employee\Employee\obj\Debug\net10.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Employee\Employee\obj\Debug\net10.0\Employee.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Employee\Employee\obj\Debug\net10.0\Employee.AssemblyInfo.cs
+C:\Users\admin\source\repos\Employee\Employee\obj\Debug\net10.0\Employee.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Employee\Employee\obj\Debug\net10.0\Employee.dll
+C:\Users\admin\source\repos\Employee\Employee\obj\Debug\net10.0\refint\Employee.dll
+C:\Users\admin\source\repos\Employee\Employee\obj\Debug\net10.0\Employee.pdb
+C:\Users\admin\source\repos\Employee\Employee\obj\Debug\net10.0\Employee.genruntimeconfig.cache
+C:\Users\admin\source\repos\Employee\Employee\obj\Debug\net10.0\ref\Employee.dll
